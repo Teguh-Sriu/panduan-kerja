@@ -1,0 +1,1302 @@
+[zimbra@ts ~]$ /opt/zimbra/libexec/zmmsgtrace -s @tungmung.co.id | more
+zmmsgtrace: total unmatched entries in '/var/log/zimbra.log': 1885
+zmmsgtrace: use -debug to see unmatched lines
+Tracing messages
+	from @tungmung.co.id
+
+Message ID '008901d7df3c$0fd10f70$2f732e50$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 07:50:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:50:32 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:50:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009001d7df3c$83926440$8ab72cc0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 07:53:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:53:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:54:08 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009601d7df3c$a0fce8c0$e2f6ba40$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 07:54:23 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:54:32 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:54:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009c01d7df3d$2967da30$7c378e90$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_nurlaily@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_asri@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nurlaily@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 07:58:18 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 07:58:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 07:58:46 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000601d7df3d$cdce56d0$696b0470$@tungmung.co.id'
+sufei@tungmung.co.id -->
+	yesica_purchasing@idn-lts.com
+  Recipient yesica_purchasing@idn-lts.com
+  Nov 22 08:02:44 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:02:53 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00a201d7df3d$dc139930$943acb90$@tungmung.co.id'
+wong@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 08:03:10 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:03:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:38 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 08:03:10 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:03:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:38 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 08:03:10 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:03:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:38 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 08:03:10 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:03:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:38 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 08:03:10 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:03:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:03:38 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009401d7df3f$a2213d20$e663b760$@tungmung.co.id'
+selly@tungmung.co.id -->
+	rina_md@idn-lts.com
+  Recipient rina_md@idn-lts.com
+  Nov 22 08:15:47 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:15:48 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:16:11 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000901d7df3f$de5057e0$9af107a0$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to yeni_purchasing@idn-lts.com)
+	backup@idn-lts2.com (originally to desi_ppic@idn-lts.com)
+	desi_ppic@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	hamka_ppic@idn-lts.com
+kristin_ppic@idn-lts.com
+	nadifa_ppic@idn-lts.com
+	stock_gudang@idn-lts.com
+	yeni_purchasing@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient backup@idn-lts2.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts2.com:25 (175.103.43.110:25) status sent
+  Recipient desi_ppic@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient hamka_ppic@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient kristin_ppic@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nadifa_ppic@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient yeni_purchasing@idn-lts.com
+  Nov 22 08:17:49 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:17:57 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:18:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '001d01d7df41$c10138b0$4303aa10$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 08:31:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:31:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:31:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 08:31:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:31:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:31:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 08:31:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:31:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:31:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 08:31:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:31:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:31:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 08:31:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:31:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:31:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003301d7df42$5a2e0540$0e8a0fc0$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to yeni_purchasing@idn-lts.com)
+	backup@idn-lts2.com (originally to desi_ppic@idn-lts.com)
+	desi_ppic@idn-lts.com
+dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	hamka_ppic@idn-lts.com
+	kristin_ppic@idn-lts.com
+	nadifa_ppic@idn-lts.com
+	stock_gudang@idn-lts.com
+	yeni_purchasing@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient backup@idn-lts2.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts2.com:25 (175.103.43.110:25) status sent
+  Recipient desi_ppic@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient hamka_ppic@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient kristin_ppic@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nadifa_ppic@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+Recipient stock_gudang@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient yeni_purchasing@idn-lts.com
+  Nov 22 08:35:36 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:35:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:36:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003f01d7df43$2174bae0$645e30a0$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	elya_md@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 08:41:19 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:41:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:41:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient elya_md@idn-lts.com
+  Nov 22 08:41:19 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:41:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:41:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 08:41:19 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:41:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:41:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 08:41:19 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:41:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:41:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 08:41:19 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:41:27 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:41:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000601d7df43$a7d0f090$f772d1b0$@tungmung.co.id'
+patrick.ong@tungmung.co.id -->
+	widoyoko@idn-lts.com
+  Recipient widoyoko@idn-lts.com
+  Nov 22 08:45:04 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:45:11 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:45:35 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '005201d7df43$ea462f30$bed28d90$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	satria_md@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient satria_md@idn-lts.com
+  Nov 22 08:47:01 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:47:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:47:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '002701d7df44$5281fde0$f785f9a0$@tungmung.co.id'
+diky@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 08:49:29 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:49:37 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:49:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003a01d7df44$6e58ea10$4b0abe30$@tungmung.co.id'
+khoir@tungmung.co.id -->
+	gracia_md@idn-lts.com
+	oc_agus@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_nella@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_okta@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient gracia_md@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_agus@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nella@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_okta@idn-lts.com
+ Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 08:49:59 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:50:07 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:50:23 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000001d7df43$fba89010$f2f9b030$@tungmung.co.id'
+nela@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	elya_md@idn-lts.com
+	gracia_md@idn-lts.com
+	murren_md@idn-lts.com
+	rika_md@idn-lts.com
+	rina_md@idn-lts.com
+	satria_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient elya_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gracia_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient murren_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient rika_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient rina_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient satria_md@idn-lts.com
+  Nov 22 08:51:23 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:51:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:51:53 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00bf01d7df45$2cc69bf0$8653d3d0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 08:56:31 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 08:56:39 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 08:56:59 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000601d7df45$912f4290$b38dc7b0$@co.id'
+jeny@tungmung.co.id -->
+	marker_01@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 09:00:44 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:00:53 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:01:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '006201d7df45$dbfb5ca0$93f215e0$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	stock_gudang@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) st  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 09:01:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:01:52 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:02:14 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '006501d7df46$66f58470$34e08d50$@tungmung.co.id'
+khoir@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 09:04:07 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:04:15 - ts 
+  Recipient oc_eko@idn-lts.com
+  Nov 22 09:04:07 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:04:15 - ts 
+Message ID '006501d7df46$66f58470$34e08d50$@tungmung.co.id'
+khoir@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 09:04:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 09:04:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 09:04:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:04:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:04:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000c01d7df46$d06fc690$714f53b0$@co.id'
+jeny@tungmung.co.id -->
+	marker_01@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 09:07:55 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:08:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:08:25 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '006e01d7df47$372da7d0$a588f770$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 09:13:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:13:47 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:14:03 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:13:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:13:47 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:14:03 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 09:13:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:13:47 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:14:03 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:13:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:13:47 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:14:03 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:13:38 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:13:47 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:14:03 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '1637547641.h1KXs6i6OrBzWE5H@svr-2014.varnion.net.id'
+rendy@tungmung.co.id -->
+	rina_md@idn-lts.com
+  Recipient rina_md@idn-lts.com
+  Nov 22 09:15:33 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:15:33 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:15:57 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00c501d7df47$afc16c40$0f4444c0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:15:52 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:16:01 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:16:21 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '007401d7df48$360b5270$a221f750$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to yeni_purchasing@idn-lts.com)
+	backup@idn-lts2.com (originally to desi_ppic@idn-lts.com)
+	desi_ppic@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	hamka_ppic@idn-lts.com
+	kristin_ppic@idn-lts.com
+	nadifa_ppic@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	stock_gudang@idn-lts.com
+	yeni_purchasing@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient backup@idn-lts2.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts2.com:25 (175.103.43.110:25) status sent
+  Recipient desi_ppic@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient hamka_ppic@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient kristin_ppic@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nadifa_ppic@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient yeni_purchasing@idn-lts.com
+  Nov 22 09:19:46 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:19:55 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:20:13 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000001d7df48$1f5d3340$5e1799c0$@tungmung.co.id'
+wahyu.sihotang@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:20:51 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:21:00 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:21:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000b01d7df49$ae104ef0$0a30ecd0$@tungmung.co.id'
+antoni@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	oc_bella@idn-lts.com
+	oc_novi@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:27:48 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:27:56 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:28:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_bella@idn-lts.com
+  Nov 22 09:27:48 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:27:56 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:28:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:27:48 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:27:56 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:28:19 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000601d7df4a$81af9220$850eb660$@tungmung.co.id'
+pattern11@tungmung.co.id -->
+	marker_01@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 09:36:25 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:36:34 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:36:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '002601d7df4b$08bb41b0$1a31c510$@tungmung.co.id'
+patrick.ong@tungmung.co.id -->
+	satria_md@idn-lts.com
+  Recipient satria_md@idn-lts.com
+  Nov 22 09:37:25 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:37:34 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:37:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00de01d7df4b$02486880$06d93980$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:37:25 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:37:34 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:37:54 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '007e01d7df4c$19993ae0$4ccbb0a0$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	stock_gudang@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 09:45:21 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:45:29 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:45:50 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '001e01d7df4d$10daf5a0$3290e0e0$@tungmung.co.id'
+najika@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	oc_asri@idn-lts.com
+	oc_bella@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_nurlaily@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_asri@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_bella@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nurlaily@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 09:52:54 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 09:53:03 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 09:53:26 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009701d7df4f$01b7eb80$0527c280$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	stock_gudang@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 10:06:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:06:14 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:06:31 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003401d7df50$15e2c5c0$41a85140$@tungmung.co.id'
+gery@tungmung.co.id -->
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient payment_05@idn-lts.com
+  Nov 22 10:13:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:14:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:14:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 10:13:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:14:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:14:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003a01d7df50$3d535c50$b7fa14f0$@tungmung.co.id'
+gery@tungmung.co.id -->
+	elya_md@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient elya_md@idn-lts.com
+  Nov 22 10:15:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:15:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:15:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 10:15:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:15:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:15:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 10:15:06 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:15:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:15:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00ac01d7df51$0038dab0$00aa9010$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to yeni_purchasing@idn-lts.com)
+	backup@idn-lts2.com (originally to desi_ppic@idn-lts.com)
+	desi_ppic@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	hamka_ppic@idn-lts.com
+	kristin_ppic@idn-lts.com
+	nadifa_ppic@idn-lts.com
+	yeni_purchasing@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient backup@idn-lts2.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts2.com:25 (175.103.43.110:25) status sent
+  Recipient desi_ppic@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient hamka_ppic@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient kristin_ppic@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nadifa_ppic@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient yeni_purchasing@idn-lts.com
+  Nov 22 10:20:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:20:46 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:20:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '004401d7df52$55c14200$0143c600$@tungmung.co.id'
+najika@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	oc_asri@idn-lts.com
+	oc_bella@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_nurlaily@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_asri@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_bella@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nurlaily@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 10:30:43 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:30:51 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:07 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '004d01d7df52$6d005690$470103b0$@tungmung.co.id'
+gery@tungmung.co.id -->
+	ppic_01@idn-lts.com
+  Recipient ppic_01@idn-lts.com
+  Nov 22 10:30:52 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:31:01 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:31:36 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '002601d7df53$574d91e0$05e8b5a0$@tungmung.co.id'
+leila@tungmung.co.id -->
+	budiman_md@idn-lts.com
+	clo_cft@idn-lts.com
+	elya_md@idn-lts.com
+	gracia_md@idn-lts.com
+	lab_02@idn-lts.com
+	murren_md@idn-lts.com
+	nurul_cft@idn-lts.com
+	oc_cft_02@idn-lts.com
+	oc_cft_admin@idn-lts.com
+	oc_cft_kokom@idn-lts.com
+	oc_cft_yuni@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_okta@idn-lts.com
+	rika_md@idn-lts.com
+	rina_md@idn-lts.com
+	widoyoko@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient clo_cft@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient elya_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gracia_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient lab_02@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient murren_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nurul_cft@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_cft_02@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_cft_admin@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_cft_kokom@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_cft_yuni@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_okta@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient rika_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient rina_md@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient widoyoko@idn-lts.com
+  Nov 22 10:37:26 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:37:35 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:37:56 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '001801d7df55$d1320750$739615f0$@tungmung.co.id'
+marker3@tungmung.co.id -->
+	marker_01@idn-lts.com
+	oc_pattern_05@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 10:56:11 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:56:18 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:56:42 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_pattern_05@idn-lts.com
+  Nov 22 10:56:11 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:56:18 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:56:42 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '010001d7df56$12a4ca10$37ee5e30$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 10:56:35 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:56:44 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:57:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '010701d7df56$6d033ff0$4709bfd0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_bella@idn-lts.com
+	oc_novi@idn-lts.com
+	oc_nurlaily@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 10:59:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:08 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:59:21 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_bella@idn-lts.com
+  Nov 22 10:59:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:08 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:59:21 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 10:59:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:08 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:59:21 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nurlaily@idn-lts.com
+  Nov 22 10:59:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:08 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 10:59:21 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '010d01d7df56$7fd66ee0$7f834ca0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 10:59:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:45 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:00:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 10:59:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:45 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:00:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 10:59:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:45 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:00:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 10:59:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:45 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:00:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 10:59:37 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 10:59:45 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:00:06 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '001801d7df56$9eae8d20$dc0ba760$@tungmung.co.id'
+pattern11@tungmung.co.id -->
+	marker_01@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 11:03:14 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 11:03:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:03:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '004901d7df59$efdde8a0$cf99b9e0$@tungmung.co.id'
+diky@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 11:24:15 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 11:24:24 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 11:24:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '002401d7df65$c56aca00$50405e00$@tungmung.co.id'
+jilvia@tungmung.co.id -->
+	oc_cft_admin@idn-lts.com
+  Recipient oc_cft_admin@idn-lts.com
+  Nov 22 12:49:02 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 12:49:12 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 12:49:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '007501d7df68$63c533a0$2b4f9ae0$@tungmung.co.id'
+gery@tungmung.co.id -->
+	elya_md@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient elya_md@idn-lts.com
+  Nov 22 13:08:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:08:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:08:24 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 13:08:00 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:08:09 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:08:24 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000201d7df68$84202150$8c6063f0$@tungmung.co.id'
+wong@tungmung.co.id -->
+	budiman_md@idn-lts.com
+  Recipient budiman_md@idn-lts.com
+  Nov 22 13:08:44 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:08:49 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:09:12 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003701d7df68$dff69130$9fe3b390$@tungmung.co.id'
+sufei@tungmung.co.id -->
+	yesica_purchasing@idn-lts.com
+  Recipient yesica_purchasing@idn-lts.com
+  Nov 22 13:11:07 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:11:15 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:11:30 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '00d301d7df69$196ea240$4c4be6c0$@tungmung.co.id'
+khoir@tungmung.co.id -->
+	oc_asri@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+  Recipient oc_asri@idn-lts.com
+  Nov 22 13:12:32 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:12:40 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:12:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 13:12:32 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:12:40 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:12:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 13:12:32 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:12:40 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:12:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 13:12:32 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:12:40 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:12:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 13:12:32 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:12:40 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:12:58 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003001d7df69$1c077590$541660b0$@tungmung.co.id'
+Andi.siahaan@tungmung.co.id -->
+	murren_md@idn-lts.com
+	rina_md@idn-lts.com
+  Recipient murren_md@idn-lts.com
+  Nov 22 13:12:58 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:13:06 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:13:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient rina_md@idn-lts.com
+  Nov 22 13:12:58 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:13:06 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:13:28 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '008101d7df69$6abb2a10$40317e30$@tungmung.co.id'
+gery@tungmung.co.id -->
+	backup@idn-lts2.com (originally to desi_ppic@idn-lts.com)
+	desi_ppic@idn-lts.com
+	gracia_md@idn-lts.com
+	hamka_ppic@idn-lts.com
+	nadifa_ppic@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient backup@idn-lts2.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts2.com:25 (175.103.43.110:25) status sent
+  Recipient desi_ppic@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gracia_md@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient hamka_ppic@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient nadifa_ppic@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 13:15:14 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:15:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:15:43 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '008001d7df69$fdf8f370$f9eada50$@tungmung.co.id'
+najika@tungmung.co.id -->
+	elya_md@idn-lts.com
+	oc_agus@idn-lts.com
+	oc_eko@idn-lts.com
+	oc_indri_accs@idn-lts.com
+	oc_nella@idn-lts.com
+	oc_nurlaily@idn-lts.com
+	oc_sefti@idn-lts.com
+	payment_05@idn-lts.com
+	ppic_01@idn-lts.com
+  Recipient elya_md@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_agus@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_eko@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_indri_accs@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nella@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_nurlaily@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_sefti@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient ppic_01@idn-lts.com
+  Nov 22 13:20:08 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:20:16 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:20:39 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '009501d7df6a$bb343fd0$319cbf70$@tungmung.co.id'
+gery@tungmung.co.id -->
+	ppic_01@idn-lts.com
+  Recipient ppic_01@idn-lts.com
+  Nov 22 13:25:33 - a.mx.ext.maxindo.net.id (150.129.18.8) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:25:41 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:26:01 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '000001d7df6b$56acd120$04067360$@tungmung.co.id'
+fani.tafia@tungmung.co.id -->
+	backup@idn-lts.com (originally to gudang_bahan_02@idn-lts.com)
+	budiman_md@idn-lts.com
+	dimas_exim@idn-lts.com
+	gudang_bahan_02@idn-lts.com
+	oc_novi@idn-lts.com
+	payment_05@idn-lts.com
+	stock_gudang@idn-lts.com
+  Recipient backup@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient budiman_md@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient dimas_exim@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient gudang_bahan_02@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient oc_novi@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient payment_05@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+  Recipient stock_gudang@idn-lts.com
+  Nov 22 13:28:56 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:29:04 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:29:20 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+Message ID '003501d7df6e$b4ca4370$1e5eca50$@co.id'
+jeny@tungmung.co.id -->
+	marker_01@idn-lts.com
+  Recipient marker_01@idn-lts.com
+  Nov 22 13:53:13 - b.mx.ext.maxindo.net.id (103.130.241.70) --> 127.0.0.1:10026 (127.0.0.1:10026) status sent
+  Nov 22 13:53:22 - ts --> 127.0.0.1:10032 (127.0.0.1:10032) status sent
+  Nov 22 13:53:41 - ts --> idn-lts.com:7025 (43.252.74.170:7025) status sent
+
+
+
+
+
+
+
