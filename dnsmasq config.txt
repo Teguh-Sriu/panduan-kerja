@@ -1,0 +1,57 @@
+# ###################################
+# BEGIN ZIMBRA SERVER DNSMASQ CONFIG
+# ###################################
+#
+# Name Servers to use for resolution:
+# IP addresses below are for Google's public DNS servers;
+# you may wish instead to use your ISP's upstream servers,
+# or your AD servers with the DNS Role installed.
+server=8.8.8.8
+server=8.8.4.4
+#
+# Only localhost can talk to me (Zimbra Default).
+# Add this server's RFC1918 IP address if you want
+# other Zimbra servers on the network to query me.
+listen-address=127.0.0.1
+#
+# What's my Zimbra server's domain?
+domain=idn-lts.com
+#
+# DNS A Record-Equivalent(s) go here:
+#address=/my.missioncriticalemail.com/10.7.57.129
+address=/mail.idn-lts.com/43.252.74.170
+#address=/mb1.missioncriticalemail.com/10.7.57.127
+address=/a.mx.ext.maxindo.net.id/150.129.18.8
+#address=/mb2.missioncriticalemail.com/10.7.57.126
+address=/b.mx.ext.maxindo.net.id/103.130.241.70 
+#address=/mb3.missioncriticalemail.com/10.7.57.125
+address=/c.mx.ext.maxindo.net.id/150.129.18.11
+#address=/mb4.missioncriticalemail.com/10.7.57.124
+address=/d.mx.ext.maxindo.net.id/150.129.18.5
+
+#
+# DNS PTR Record-Equivalent(s) go here:
+ptr-record=170.74.232.43.in-addr.arpa,mail.idn-lts.com
+ptr-record=8.18.129.150.in-addr.arpa,a.mx.ext.maxindo.net.id 
+ptr-record=70.241.130.103.in-addr.arpa,b.mx.ext.maxindo.net.id 
+ptr-record=11.18.129.150.in-addr.arpa,c.mx.ext.maxindo.net.id
+ptr-record=5.18.129.150.in-addr.arpa,d.mx.ext.maxindo.net.id
+
+#
+# If you haven't figured out how to change DHCP scope options in AWS,
+# dnsmasq needs to resolve the AWS-generated hostname, e.g.:
+# address=/ip-10-7-57-129/10.7.57.129
+#
+# DNS MX Record-Equivalnet(s) go here:
+mx-host=idn-lts.com,mail.idn-lts.com,10
+#
+# Where can I find out about other hosts before I ask the public nameservers?
+addn-hosts=/etc/hosts
+#
+# Increase the number of host lookups cached from the default 150
+cache-size=9500
+#
+# ###################################
+# END ZIMBRA SERVER DNSMASQ CONFIG
+# ###################################
+#
